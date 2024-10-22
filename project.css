@@ -1,0 +1,31 @@
+    .nav-bar{
+        margin-left: 200px;
+
+    }
+    .block{
+        display: flex;
+        margin-left: 900px;
+        margin-top: -70px;
+    }
+    #para{
+        color: rgb(208, 174, 19);
+    }
+    #side{
+        margin-left: 700px;
+        margin-top: -80px;
+    }
+    #word{
+        color: rgb(208, 174, 19);
+    }
+    #side2{
+        margin-left: 700px;
+        margin-top: -150px;
+    }
+    #ad{
+        font-size: 40px;
+    }
+    .al{
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+  
